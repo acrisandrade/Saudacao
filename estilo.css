@@ -1,0 +1,32 @@
+body{
+    background: #5E17EB;
+    font:italic 15pt ibm plex mono light ;
+   
+}
+header{
+    color: aliceblue;
+    text-align: center;
+}
+section{
+    background: aliceblue;
+    border-radius: 10px;
+    padding:15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 16px 20px black;
+
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+
+}
+#img{
+    border-radius:90% ;
+    height: 200px;
+    width: 200px;
+}
